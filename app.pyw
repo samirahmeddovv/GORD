@@ -16,8 +16,8 @@ try:
 except Exception as e:
     print("GPU Başlatma xətası:", e)
 
-TOKEN = "8470632409:AAEh2WWoa1QMiPYq56z7KcqTVZaTPUL5jDw"
-CHAT_ID = "1955392770"
+TOKEN = "Token"
+CHAT_ID = "Chat_ID"
 AUDIO_PATH = "alert_voice.wav"
 FLASK_URL = "http://127.0.0.1:5000/api/upload"
 
